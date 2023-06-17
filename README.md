@@ -14,7 +14,6 @@ New Version: [Under Progress] (Paid)
 ## Fitur
 
 Fitur Yang Tersedia Pada Aplikasi Ini:
-- ~~Absen Scan Barcode (Instant Absen [Beta])~~ [Removed]
 - Remember Me
 - Custom Setting Aplikasi
 - Informasi Pada Saat Absen
@@ -54,11 +53,7 @@ Silakan ubah beberapa config ini saja untuk disesuaikan dengan pengaturan databa
 
 ## Demo / Screenshot
 ![Login Page](https://github.com/sandyh90/Codeigniter3-absen-digital/blob/master/images-demo/Screenshot_2021-02-03%20Login%20Absensi.png)
-![Front Page](https://github.com/sandyh90/Codeigniter3-absen-digital/blob/master/images-demo/Screenshot_2020-09-12%20Absensi%20Online.png)
 
-Ingin mencoba aplikasi web ini silakan kunjungi
-
-[Demo Web](http://demo.nerosky.rf.gd/absendigitalci3/)
 
 ## Setting Environment
 

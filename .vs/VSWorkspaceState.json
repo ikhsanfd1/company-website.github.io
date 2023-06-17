@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\helpers",
+    "\\application\\models",
+    "\\application\\views",
+    "\\application\\views\\admin",
+    "\\application\\views\\layout",
+    "\\application\\views\\layout\\datapegawai",
+    "\\Databasenya disini",
+    "\\system"
+  ],
+  "SelectedNode": "\\application\\views\\layout\\navbar.php",
+  "PreviewInSolutionExplorer": false
+}
